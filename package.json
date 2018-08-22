@@ -16,9 +16,6 @@
     "vux"
   ],
   "author": "cao.huanan@opg.cn",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hookszhang/vue-cli-plugin-vux/issues"
-  },
-  "homepage": "https://github.com/hookszhang/vue-cli-plugin-vux#readme"
+  "license": "MIT"
+ 
 }
