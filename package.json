@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-vux4steam",
+  "version": "1.3.0",
+  "description": "Vux plugin for vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcto/vue-cli-plugin-vux4steam.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "vux"
+  ],
+  "author": "cao.huanan@opg.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hookszhang/vue-cli-plugin-vux/issues"
+  },
+  "homepage": "https://github.com/hookszhang/vue-cli-plugin-vux#readme"
+}
